@@ -1,5 +1,5 @@
 function palindromeOrNot(){
-    var num=document.querySelector(".inputbox").value;
+    var num=document.querySelector(".inputbox").value.toUpperCase();
 
     var revNum=num.split("").reverse().join("");
 
