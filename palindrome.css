@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: violet;
+    margin: 60px auto;
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 100px;
+    color: green;
+    font-weight: 0;
+}
+.inputbox{
+    border: 1px solid #f6f8fa;
+    padding: 10px;
+    text-indent: 5px;
+    width: 450px;
+    background-color: bisque;
+    margin: 10px;
+    text-transform: uppercase;
+    color: black;
+    font-weight:lighter ;
+}
+.definition{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
